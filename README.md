@@ -1,13 +1,31 @@
 <div align="center">
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                    CINEMATIC HEADER                        -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  ANIMATED HERO HEADER                    -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,20:080d2a,50:0c1445,80:091230,100:050510&height=320&section=header&text=Abdul%20Sami&fontSize=88&fontColor=e8d5a3&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20API%20Architect&descAlignY=62&descSize=17&descFontColor=7b9ccc&animation=fadeIn&stroke=c9a84c&strokeWidth=1.5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,20:080d2a,50:0c1445,80:091230,100:050510&height=300&section=header&text=Abdul%20Sami&fontSize=90&fontColor=e8d5a3&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20API%20Architect&descAlignY=63&descSize=17&descFontColor=7b9ccc&animation=fadeIn&stroke=c9a84c&strokeWidth=1.5" />
 
-<br/>
+</div>
 
+---
+
+<div align="center">
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--               PROFILE PHOTO + NAME REVEAL                -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=32&duration=2500&pause=2000&color=E8D5A3&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Abdul+Sami+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%9A%80;Mobile+Developer+%F0%9F%93%B1;API+Architect+%E2%9A%99%EF%B8%8F" alt="Name typing" />
+</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&width=780&height=48&lines=Engineering+production-ready+full-stack+applications;Crafting+seamless+cross-platform+mobile+experiences;React+%7C+Node.js+%7C+REST+APIs+%7C+React+Native;Precision-built+code.+Purposeful+design.+Real+impact." alt="Taglines" />
+
+<br/><br/>
+
+<!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=abdulsamiaslam4622-ops&style=for-the-badge&color=0c1445&label=PROFILE+VIEWS&labelColor=050510" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-c9a84c?style=for-the-badge&labelColor=050510&logo=statuspage&logoColor=c9a84c" />
@@ -16,21 +34,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%26%20Mobile-e8d5a3?style=for-the-badge&labelColor=050510" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=21&duration=3500&pause=1300&color=C9A84C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=56&lines=Engineering+production-ready+full-stack+applications;Crafting+seamless+cross-platform+mobile+experiences;React+%7C+Node.js+%7C+REST+APIs+%7C+React+Native;Precision-built+code.+Purposeful+design.+Real+impact." alt="Typing SVG" />
-
-<br/>
+</div>
 
 ---
 
-</div>
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                       ABOUT ME                          -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                       ABOUT ME                             -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<img align="right" alt="Developer Animation" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bm5oZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Animation" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```typescript
 const abdulSami: Engineer = {
@@ -61,9 +73,96 @@ const abdulSami: Engineer = {
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                  PROJECT SHOWCASE                          -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CURRENT STATUS                         -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+### ◈ &nbsp; Current Status
+
+<table>
+<tr><td>🔭 <b>Currently Building</b></td><td>Production-grade full-stack & cross-platform mobile applications</td></tr>
+<tr><td>🌱 <b>Currently Learning</b></td><td>Advanced TypeScript, WebSocket real-time systems & cloud architecture (AWS/GCP)</td></tr>
+<tr><td>💡 <b>Specialization</b></td><td>Component-driven React architecture, REST API design, mobile UX engineering</td></tr>
+<tr><td>💬 <b>Ask Me About</b></td><td>React, React Native, Node.js, REST APIs, MySQL, Firebase integrations</td></tr>
+<tr><td>📬 <b>Email</b></td><td><a href="mailto:abdulsamiaslam.4622@gmail.com">abdulsamiaslam.4622@gmail.com</a></td></tr>
+<tr><td>🤝 <b>Open To</b></td><td>Freelance · Full-time Roles · Collaborative Open-Source Projects</td></tr>
+<tr><td>⚡ <b>Fun Fact</b></td><td>I treat code reviews like fine dining — every detail matters, every line has a reason 🍽️</td></tr>
+</table>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                   TECH STACK                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### ◈ &nbsp; Technology Stack
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⚡ &nbsp; Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark&perline=6" />
+
+</td>
+<td align="center" width="50%">
+
+**🔧 &nbsp; Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📱 &nbsp; Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=4" />
+<br/><sub><sup>React Native &nbsp;|&nbsp; Expo &nbsp;|&nbsp; Android Studio</sup></sub>
+
+</td>
+<td align="center">
+
+**🧰 &nbsp; Dev Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**◦ Proficiency Overview ◦**
+
+<br/>
+
+| Skill | Proficiency Bar | Level |
+|-------|----------------|-------|
+| HTML5 / CSS3 | `█████████████████░░░` | Advanced — 90% |
+| React.js | `████████████████░░░░` | Advanced — 85% |
+| Git & GitHub | `████████████████░░░░` | Advanced — 85% |
+| JavaScript / TypeScript | `████████████████░░░░` | Advanced — 83% |
+| Tailwind CSS | `████████████████░░░░` | Advanced — 84% |
+| React Native | `███████████████░░░░░` | Advanced — 80% |
+| REST API Design | `██████████████░░░░░░` | Intermediate+ — 78% |
+| Node.js & Express | `██████████████░░░░░░` | Intermediate+ — 76% |
+| Expo | `██████████████░░░░░░` | Intermediate+ — 74% |
+| MySQL & Firebase | `█████████████░░░░░░░` | Intermediate — 72% |
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                 PROJECT PORTFOLIO                       -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -201,115 +300,10 @@ const abdulSami: Engineer = {
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                    TECH ARSENAL                            -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-### ◈ &nbsp; Technology Stack
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**⚡ &nbsp; Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark&perline=6" />
-
-</td>
-<td align="center" width="50%">
-
-**🔧 &nbsp; Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**📱 &nbsp; Mobile Development**
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=4" />
-<br/><sub><sup>React Native &nbsp;|&nbsp; Expo &nbsp;|&nbsp; Android Studio</sup></sub>
-
-</td>
-<td align="center">
-
-**🧰 &nbsp; Dev Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel&theme=dark&perline=6" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-**◦ Proficiency Overview ◦**
-
-<br/>
-
-| Skill | Proficiency Bar | Level |
-|-------|----------------|-------|
-| React.js | `████████████████░░░░` | Advanced |
-| React Native | `███████████████░░░░░` | Advanced |
-| Node.js & Express | `██████████████░░░░░░` | Intermediate+ |
-| JavaScript / TypeScript | `████████████████░░░░` | Advanced |
-| MySQL & Firebase | `█████████████░░░░░░░` | Intermediate |
-| Tailwind CSS | `████████████████░░░░` | Advanced |
-| REST API Design | `██████████████░░░░░░` | Intermediate+ |
-| Git & GitHub | `████████████████░░░░` | Advanced |
-
-</div>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                  CURRENT STATUS                            -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-### ◈ &nbsp; Current Status
-
-<table>
-<tr>
-<td>🔭 <b>Currently Building</b></td>
-<td>Production-grade full-stack & cross-platform mobile applications</td>
-</tr>
-<tr>
-<td>🌱 <b>Currently Learning</b></td>
-<td>Advanced TypeScript, WebSocket real-time systems & cloud architecture (AWS/GCP)</td>
-</tr>
-<tr>
-<td>💡 <b>Specialization</b></td>
-<td>Component-driven React architecture, REST API design, mobile UX engineering</td>
-</tr>
-<tr>
-<td>💬 <b>Ask Me About</b></td>
-<td>React, React Native, Node.js, REST APIs, MySQL, Firebase integrations</td>
-</tr>
-<tr>
-<td>📬 <b>Email</b></td>
-<td><a href="mailto:abdulsamiaslam.4622@gmail.com">abdulsamiaslam.4622@gmail.com</a></td>
-</tr>
-<tr>
-<td>🤝 <b>Open To</b></td>
-<td>Freelance · Full-time Roles · Collaborative Open-Source Projects</td>
-</tr>
-<tr>
-<td>⚡ <b>Fun Fact</b></td>
-<td>I treat code reviews like fine dining — every detail matters, every line has a reason 🍽️</td>
-</tr>
-</table>
-
----
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                 GITHUB INTELLIGENCE                        -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                GITHUB INTELLIGENCE                      -->
+<!--   NOTE: Stats replaced with WakaTime + reliable cards   -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -317,33 +311,45 @@ const abdulSami: Engineer = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulsamiaslam4622-ops&show_icons=true&hide_border=true&count_private=true&bg_color=050510&title_color=c9a84c&icon_color=7b9ccc&text_color=e8d5a3&border_radius=16&ring_color=c9a84c&include_all_commits=true&custom_title=Abdul%20Sami's%20GitHub%20Stats" height="180" />
+<!-- GitHub Stats — uses vercel-hosted mirror, most reliable -->
+<img src="https://github-readme-stats.vercel.app/api?username=abdulsamiaslam4622-ops&show_icons=true&hide_border=true&count_private=true&bg_color=050510&title_color=c9a84c&icon_color=7b9ccc&text_color=e8d5a3&border_radius=12&ring_color=c9a84c&include_all_commits=true&custom_title=Abdul%20Sami%27s%20GitHub%20Stats&theme=dark" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamiaslam4622-ops&layout=compact&hide_border=true&bg_color=050510&title_color=c9a84c&text_color=e8d5a3&border_radius=16&langs_count=8&card_width=330" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamiaslam4622-ops&layout=compact&hide_border=true&bg_color=050510&title_color=c9a84c&text_color=e8d5a3&border_radius=12&langs_count=8&card_width=320&theme=dark" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abdulsamiaslam4622-ops&hide_border=true&background=050510&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=7B9CCC&dates=8B949E&border_radius=16&card_width=700&currStreakNum=E8D5A3&sideNums=E8D5A3" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulsamiaslam4622-ops&theme=2077" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulsamiaslam4622-ops&theme=2077" height="165" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulsamiaslam4622-ops&theme=2077" height="165" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulsamiaslam4622-ops&theme=2077&utcOffset=5" height="165" />
+<!-- GitHub Streak — demolab version (more stable than DIO streak) -->
+<img src="https://streak-stats.demolab.com?user=abdulsamiaslam4622-ops&hide_border=true&background=050510&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=7B9CCC&dates=8B949E&border_radius=12&card_width=680&currStreakNum=E8D5A3&sideNums=E8D5A3&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--               CONTRIBUTION GRAPH + CALENDAR               -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--               LANGUAGE BREAKDOWN                        -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+### ◈ &nbsp; Language Breakdown
+
+<br/>
+
+| Language | Share | Focus Area |
+|----------|-------|------------|
+| 🟡 JavaScript | 38% | Primary language across all projects |
+| 🔵 TypeScript | 24% | Typed architecture & scalable APIs |
+| 🟣 CSS / Tailwind | 16% | UI polish & responsive layouts |
+| 🟠 HTML5 | 12% | Semantic & accessible markup |
+| ⚪ Other (SQL, JSON, Shell) | 10% | Database queries, configs, scripts |
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--               CONTRIBUTION GRAPH                        -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -351,19 +357,15 @@ const abdulSami: Engineer = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsamiaslam4622-ops&bg_color=050510&color=c9a84c&line=7b9ccc&point=c9a84c&area=true&area_color=c9a84c22&hide_border=true&radius=10&custom_title=Abdul%20Sami%20—%20Daily%20Contribution%20Graph&theme=react-dark" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-contribution-stats.vercel.app/api/?username=abdulsamiaslam4622-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" width="55%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulsamiaslam4622-ops&bg_color=050510&color=c9a84c&line=7b9ccc&point=c9a84c&area=true&area_color=c9a84c22&hide_border=true&radius=8&custom_title=Abdul%20Sami%20—%20Daily%20Contribution%20Graph&theme=react-dark" width="100%" />
 
 </div>
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--             SNAKE CONTRIBUTION ANIMATION                  -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--             SNAKE CONTRIBUTION ANIMATION                -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -379,13 +381,13 @@ const abdulSami: Engineer = {
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                  GITHUB ACHIEVEMENTS                      -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  GITHUB TROPHIES                        -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-### ◈ &nbsp; GitHub Achievements & Trophies
+### ◈ &nbsp; GitHub Trophies
 
 <br/>
 
@@ -422,9 +424,9 @@ const abdulSami: Engineer = {
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                     DEV WISDOM                             -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                    DEV WISDOM                           -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -438,9 +440,9 @@ const abdulSami: Engineer = {
 
 ---
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--                  CONNECT SECTION                           -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CONNECT SECTION                        -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -464,7 +466,7 @@ const abdulSami: Engineer = {
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1800&color=C9A84C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=52&lines=Thank+you+for+visiting+my+profile.;Let%27s+connect+and+build+something+great.;Every+product+starts+with+a+single+commit." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1800&color=C9A84C&center=true&vCenter=true&width=560&height=52&lines=Thank+you+for+visiting+my+profile.;Let%27s+connect+and+build+something+great.;Every+product+starts+with+a+single+commit." alt="Footer typing" />
 
 <br/><br/>
 
